@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+}
+
+body{
+  background-color: teal!important;
+  color: white;
+}
+
+.encabezado{
+  background-color:black;
+}
+.encabezado .titulo {
+  color: white;
+  font-size: 1.5rem;
+  padding: 1rem;
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
+
+#jugador-cartas img{
+  height: 15rem;
+}
+
+
+#jugador-cartas img:nth-child(2){
+ margin-left: -2rem;
+}
+
+#jugador-cartas img:nth-child(3){
+  margin-left: -2rem;
+}
+
+
+#computadora-cartas img{
+  height: 15rem;
+}
+
+
+#computadora-cartas img:nth-child(2){
+ margin-left: -2rem;
+}
+
+#computadora-cartas img:nth-child(3){
+  margin-left: -2rem;
+}
